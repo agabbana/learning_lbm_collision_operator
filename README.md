@@ -7,17 +7,21 @@ In this repository we provide a set of jupyter notebooks which allows to reprodu
 using the dataset generated  
 3.  [lbml_simulation.ipynb](lbml_simulation.ipynb) Implements a LBM simulation of a Taylor-Green vortex flow, where the BGK operator is replaced by a Neural Network
 
+![image](https://github.com/agabbana/learning_lbm_collision_operator/assets/90458863/7c9b7e56-819b-4bf6-adb2-1e32184d2711)
 
 
 ### How to cite this work
 
 ```
-@misc{https://doi.org/10.48550/arxiv.2212.06124,
-  author = {Corbetta, Alessandro and Gabbana, Alessandro and Gyrya, Vitaliy and Livescu, Daniel and Prins, Joost and Toschi, Federico},
-  title = {Towards learning Lattice Boltzmann collision operators},
-  publisher = {arXiv},
-  year = {2022},
-  url = {https://arxiv.org/abs/2212.06124},
-  doi = {10.48550/ARXIV.2212.06124},
+@article{toward-learning-lattice-boltzmann-collision-operators,
+  title={Towards learning Lattice Boltzmann collision operators},
+  author={Corbetta, Alessandro and Gabbana, Alessandro and Gyrya, Vitaliy and Livescu, Daniel and Prins, Joost and Toschi, Federico},
+  journal={The European Physical Journal E},
+  volume={46},
+  number={3},
+  pages={10},
+  year={2023},
+  publisher={Springer},
+  doi = {10.1140/epje/s10189-023-00267-w},
 }
 ```
